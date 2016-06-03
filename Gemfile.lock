@@ -1,7 +1,7 @@
 GIT
   remote: git://github.com/smashingboxes/taperole
-  revision: 76ec6d300a3451e937dcfafbb9436e085d1edd58
-  ref: 76ec6d3
+  revision: d5f88b80f3e4fce1aae01f4e3a77ac2dbb269ffc
+  ref: d5f88b8
   specs:
     taperole (1.6.0)
       slack-notifier (~> 1.5)
