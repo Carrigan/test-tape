@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/smashingboxes/taperole
-  revision: ae046d5bf0e1d20d10a1aa4a9c11feb73f731450
+  revision: 3bc61f688ecbea43a487988382f437890a7a80c3
   branch: feature/branch-target
   specs:
     taperole (1.7.1)
