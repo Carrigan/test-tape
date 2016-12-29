@@ -32,7 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'taperole', '~> 1.7.1'
+gem 'taperole', git: 'https://github.com/smashingboxes/taperole', branch: 'feature/branch-target'
 gem 'pg'
 
 group :development, :test do
